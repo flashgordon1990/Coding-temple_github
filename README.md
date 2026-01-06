@@ -49,11 +49,8 @@ Collaborators
 This is a solo practice project, but created as part of coursework for Coding Temple.
 
 Screenshots
-(Add screenshots here once your project grows!)
-Example placeholders:
-- Homepage screenshot
-- Code snippet screenshot
-- GitHub repository screenshot
+<img width="726" height="430" alt="Screenshot 2026-01-05 201704" src="https://github.com/user-attachments/assets/0a143e1d-1728-40a4-bfe3-a1a85258d3bc" />
+
 
 Notes
 This project is intentionally simple. Its purpose is to help me:
